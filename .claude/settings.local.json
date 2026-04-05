@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/dangl/AppData/Local/Programs/**)",
+      "Bash(ls /c/Python*)",
+      "Read(//c//**)",
+      "Read(//c/Users/dangl/**)"
+    ]
+  }
+}
